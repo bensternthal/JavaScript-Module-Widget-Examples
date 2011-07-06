@@ -1,15 +1,7 @@
 /**
- * Copyright (c) 2011 DevPatch (http://www.devpatch.com)
- * Licensed under the GPL license
- *
- * Date: 7/6/11
- * Time: 10:30 AM
- *
  * Documentation URLS: http://dojotoolkit.org/reference-guide/quickstart/writingWidgets.html
  *                     http://dojotoolkit.org/documentation/tutorials/1.6/understanding_widget/
  *                     http://dojotoolkit.org/documentation/tutorials/1.6/templated/
- *                     
- *
  */
 
 dojo.provide('ui.widgetName');

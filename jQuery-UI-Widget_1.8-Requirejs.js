@@ -1,14 +1,7 @@
 /**
- * Copyright (c) 2011 DevPatch (http://www.devpatch.com)
- * Licensed under the GPL license
- *
- * Date: 7/6/11
- * Time: 9:59 AM
- *
  * Documentation URLS: http://groups.google.com/group/requirejs/browse_thread/thread/30b54c08a6d41c33/d40e73e3ea8cb54d
  *                     http://requirejs.org/docs/jquery.html
  *                     http://wiki.jqueryui.com/w/page/12138135/Widget-factory
- *
  */
 
 
