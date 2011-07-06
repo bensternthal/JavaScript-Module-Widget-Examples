@@ -15,6 +15,10 @@ dojo.declare('ui.widgetName', [dijit._Widget, dijit._Templated], {
     templateString: dojo.cache('ui.widgetName', 'templates/a-template.html'),
     baseClass: 'widgetName',
 
+    constructor: function() {
+
+    },
+
     postCreate: function(){
 
     },
