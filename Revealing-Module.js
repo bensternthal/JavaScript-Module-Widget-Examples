@@ -5,7 +5,7 @@
 
 /* Namespace Pattern */
 var NAMESPACE = (function(namespace) {
-    return carrier;
+    return namespace;
 }( NAMESPACE || {} ));
 
 
